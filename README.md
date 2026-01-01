@@ -1,10 +1,12 @@
-<h2 align="center">
+<!-- <h2 align="center">
   Aditya Katre
-</h2>
+</h2> -->
+
+
 
 <p align="center">
-  <a href="https://github.com/adik1025">
-    <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula" />
+  <a href="https://github.com/adikatre">
+    <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=adikatre&layout=compact&theme=dracula" />
   </a>
 </p>
 
