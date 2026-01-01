@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Aspiring Eagle Scout that loves to play <span style="color: #FF6347;">tennis</span>,
+  Boy Scout that loves to play <span style="color: #FF6347;">tennis</span>,
   practicing the <span style="color: #DAA520;">saxophone</span>,
   and enjoy <span style="color: #FF8C00;">tennis</span> with friends.
 </p>
