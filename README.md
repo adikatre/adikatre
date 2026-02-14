@@ -2,13 +2,7 @@
   Aditya Katre
 </h2> -->
 
-
-
-<p align="center">
-  <a href="https://github.com/adikatre">
-    <img height="180" src="https://githubreadmestats-rho.vercel.app/api/top-langs/?username=adikatre&layout=compact&theme=dracula" />
-  </a>
-</p>
+![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=adikatre&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)
 
 <p align="center">
   Boy Scout that loves to play <span style="color: #FF6347;">tennis</span>,
